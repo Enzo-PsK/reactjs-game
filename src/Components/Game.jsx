@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Board from "./Board";
-import calculateWinner from "./calculateWinner";
+import calculateWinner from "../calculateWinner";
 
 export default function Game(props) {
   const [history, setHistory] = useState([{ squares: Array(9).fill(null) }]);
