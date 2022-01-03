@@ -1,3 +1,9 @@
+# About this project
+
+This project is basically a tic tac toe game, made with ReactJS. It's part of a tutorial for learning the basic concepts of React, available at (https://reactjs.org/tutorial/tutorial.html).
+
+The difference is that the project was made using functional components, instead of the class components used in the tutorial (in order to manage states I used state hook). Therefore, the code is cleaner and more concise.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
